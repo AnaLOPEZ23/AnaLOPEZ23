@@ -9,3 +9,10 @@
 Judith Montoya es una apasionada de la Inteligencia Artificial, participa activamente en comunidades locales e internacionales de Machine Learning y Data Science.
 
 Participa activamente en Inteligencia Artificial en La Escuela de Programacion (Platzi).Ha colaborado con la comunidad de Microsoft Learn Students.Soy creadora de contenido en redes sociales como TikTok e instagram donde comparto recursos sobre tecnologia y programacion en la comunidad JUDITH CODE.
+Habilidades:
+Machine learning
+Inteligencia Artificial
+Python
+NPL
+Redes Neuronales.
+
